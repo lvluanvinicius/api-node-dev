@@ -1,1 +1,1 @@
-console.log("Index Application.");
+console.log('Index Application.');
